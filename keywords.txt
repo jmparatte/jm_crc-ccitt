@@ -1,0 +1,23 @@
+# Syntax Coloring Map for jm_crc-ccitt Arduino Library
+
+# Datatypes (KEYWORD1)
+
+# Functions (KEYWORD2)
+
+crc_ccitt_init	KEYWORD2
+crc_ccitt	KEYWORD2
+
+# Methods (KEYWORD2)
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
+
+CRC_CCITT_INIT	LITERAL1
+CRC_CCITT_POLY	LITERAL1
+CRC_CCITT_CHECK	LITERAL1
+
+# <constexpr> (LITERAL1)
+
+CRC_CCITT	LITERAL1
+STRLEN	LITERAL1
